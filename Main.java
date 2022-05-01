@@ -4,8 +4,8 @@ import java.util.Scanner;
 import java.lang.*;
 
 /**
- * @author Supretheral/Sean Q.
- * https://github.com/Suprethreal/Stock-Crypto-Java-Calculations/
+ * @author Quigsly/Sean Q.
+ * https://github.com/Quigsly/Stock-Crypto-Java-Calculations/
  */
 
 public class Main {
@@ -65,7 +65,7 @@ public class Main {
     }
 
 
-// Calculate # of Stocks to Buy based on price and quantity
+// Calculate # of Stocks to Buy based on price and cash outlay
     static class StockAmount {
 
         public static void main(String[] args)
